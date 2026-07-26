@@ -2,6 +2,8 @@
 
 Публикация: агент пишет файл здесь → человек копирует на pikabu.ru → Publish. Автопубликации нет.
 
+Чеклист старта (аккаунт, ниша, замер): [`../START-CHECKLIST.md`](../START-CHECKLIST.md).
+
 ## Имена файлов
 
 `YYYYMMDD-slug.md` (пример: `20260725-pervyy-post-pro-X.md`)
